@@ -1,4 +1,5 @@
 # Reproducer for qute bug space vs tab indentation
+Bug: https://github.com/quarkusio/quarkus/issues/47132
 
 Spaces: http://localhost:8080/spaces
 
