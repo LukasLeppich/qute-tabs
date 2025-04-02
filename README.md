@@ -8,7 +8,7 @@ Tabs: http://localhost:8080/tabs
 
 ![Using tabs](tabs.png)
 
-The only different between the two files are the used indentation:
+The only difference between the two files is the indentation used:
 
 ![Diff](diff.png)
 
