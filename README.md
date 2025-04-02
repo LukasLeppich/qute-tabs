@@ -1,3 +1,14 @@
+# Reproducer for qute bug space vs tab indentation
+
+Spaces: http://localhost:8080/spaces
+
+![Using spaces](spaces.png)
+
+Tabs: http://localhost:8080/tabs
+
+![Using tabs](tabs.png)
+
+
 # qute-tabs
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
